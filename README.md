@@ -12,6 +12,8 @@ The UI and AI responses fully adapt to the selected language, including RTL supp
 
 ![AI Image Describer - Arabic RTL](screenshots/demo-arabic.png)
 
+![AI Image Describer - Arabic Result](screenshots/demo-arabic-result.png)
+
 ## Features
 
 - 35 languages supported with full UI translation
