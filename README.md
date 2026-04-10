@@ -2,13 +2,15 @@
 
 A web-based AI image description tool powered by **Gemma 4 (31B)** running locally via Ollama. Upload any image and get a detailed AI-generated description.
 
-![AI Image Describer Demo](screenshots/demo.png)
+![AI Image Describer - English](screenshots/demo-english.png)
+
+![AI Image Describer - Result](screenshots/demo-result.png)
 
 ## Multi-Language Support (35 languages)
 
 The UI and AI responses fully adapt to the selected language, including RTL support for Arabic, Persian, Hebrew, and Urdu.
 
-![Arabic RTL Demo](screenshots/demo-arabic.png)
+![AI Image Describer - Arabic RTL](screenshots/demo-arabic.png)
 
 ## Features
 
